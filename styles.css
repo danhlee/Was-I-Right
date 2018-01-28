@@ -1,0 +1,16 @@
+body {
+    background: dodgerblue;
+    color: white; 
+}
+
+.container-fluid {
+    background: white;
+    outline-style: solid;
+    outline-color: dodgerblue;
+    color: black;
+}
+
+.jumbotron {
+    background: white;
+    color: black;
+}
